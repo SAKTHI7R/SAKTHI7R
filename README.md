@@ -1,5 +1,5 @@
 
-## <h1><span style="background: linear-gradient(to right, #ff7e5f, #feb47b); -webkit-background-clip: text; color: transparent;">SAKTHI R</span></h1>| Computer Science Engineer  
+## <h1><span style="background: linear-gradient(to right, #ff7e5f, #feb47b); -webkit-background-clip: text; color: transparent;">SAKTHI R | Computer Science Engineer</span></h1>  
 
 🚀 *Building solutions that bridge innovation and simplicity.*  
 🔍 *Expertise in Web Development, Cloud Computing, and Data Science.*
