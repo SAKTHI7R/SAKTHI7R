@@ -1,50 +1,71 @@
-# 💻 Sakthi R | Computer Science Engineer  
-🚀 *Passionate about leveraging technology to build innovative solutions.*  
-🔍 *Specialized in Web Development, Cloud Computing, and Data Science.*
+![Header](https://user-images.githubusercontent.com/placeholder/header-image.jpg)  
+# 🌟 Sakthi R | Computer Science Engineer  
+
+🚀 *Building solutions that bridge innovation and simplicity.*  
+🔍 *Expertise in Web Development, Cloud Computing, and Data Science.*
 
 ---
 
-## 📄 About Me  
-**Email:** [sakthirajaraman74@gmail.com](mailto:sakthirajaraman74@gmail.com)   
-**Portfolio:** [github.com/SAKTHI7R](https://github.com/SAKTHI7R)  
-**LinkedIn:** [linkedin.com/in/sakthirajaraman114](https://www.linkedin.com/in/sakthirajaraman114)  
-**HackerRank:** [hackerrank.com/profile/sakthirajaraman1](https://www.hackerrank.com/profile/sakthirajaraman1)
+## 👨‍💻 About Me  
+- 🌍 **Location:** Panruti, Tamil Nadu, India  
+- 📧 **Email:** [sakthirajaraman74@gmail.com](mailto:sakthirajaraman74@gmail.com)  
+- 📞 **Phone:** +91 7010274233  
+- 🌐 **Portfolio:** [github.com/SAKTHI7R](https://github.com/SAKTHI7R)  
+- 💼 **LinkedIn:** [linkedin.com/in/sakthirajaraman114](https://www.linkedin.com/in/sakthirajaraman114)  
+- 🏅 **HackerRank:** [hackerrank.com/profile/sakthirajaraman1](https://www.hackerrank.com/profile/sakthirajaraman1)  
 
 ---
 
 ## 🎓 Education  
-- **Sri Manakula Vinayagar Engineering College, Puducherry**  
-  *B.Tech - Computer Science and Engineering (CGPA: 8.30)*  
-- **Thiruvalluvar Matric Higher Secondary School, Panruti**  
-  *Scored: 88.12%*  
-- **St. Anne’s Matric Higher Secondary School, Panruti**  
-  *Scored: 78.6%*  
+📘 **Sri Manakula Vinayagar Engineering College, Puducherry**  
+- *B.Tech - Computer Science and Engineering (CGPA: 8.30)*  
+
+📗 **Thiruvalluvar Matric Higher Secondary School, Panruti**  
+- *Scored: 88.12%*  
+
+📙 **St. Anne’s Matric Higher Secondary School, Panruti**  
+- *Scored: 78.6%*  
 
 ---
 
 ## 🛠️ Technical Skills  
-### 🌐 Web Development  
-- **Frontend:** HTML5, CSS, Bootstrap, AJAX, JavaScript, ReactJS  
-- **Backend:** Node.js, NestJS  
 
-### ☁️ Cloud Computing  
-- **AWS**  
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)  
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)  
+![NodeJS](https://img.shields.io/badge/Node.js-%2343853D.svg?style=flat-square&logo=node.js&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)  
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=flutter&logoColor=white)  
 
-### 📱 Application Development  
-- **Flutter**  
+---
 
-### 🛢️ Databases  
-- **MongoDB**, **MySQL**  
+## 🏗️ Projects  
 
-### 🧩 Programming Languages  
-- **Python**, **Java**, **JavaScript**  
+### 🌟 **Personalized AR Integrated Experience (PARIE)**  
+> *Revolutionizing augmented reality for everyone.*  
 
-### 📊 Analytical Tools  
-- **Power BI**, **Excel**  
+- **Features:**  
+  - No-code platform for AR creation  
+  - Simplified development via mobile and web  
+  - Easy sharing of AR experiences  
+- **Tech Stack:** Unity, ReactJS, ThreeJS, NextJS, NestJS, MongoDB, TailwindCSS  
+
+---
+
+## 🏆 Achievements  
+
+- 🥇 **1st Place:** CHAI’s 48hrs Hackathon (*₹50,000 prize*)  
+- 🏅 **7th Place:** CII Puducherry Idea Summit (*₹7,000 prize*)  
+- ✅ **100% Attendance:** Class X, Class XI, College (1st Year)  
 
 ---
 
 ## 📜 Certifications  
+
 - **Programming in Modern C++ (NPTEL)** - Jan 2023  
 - **Database Management System (NPTEL)** - Jul 2023  
 - **Excel Automation using ChatGPT** - Dec 2023  
@@ -54,52 +75,29 @@
 
 ---
 
-## 🏆 Achievements  
-- 🥇 **CHAI’s 48hrs Hackathon:** *1st Place* (₹50,000 prize)  
-- 🎖️ **CII Puducherry Idea Summit Contest:** *7th Place* (₹7,000 prize)  
-- ✅ **100% Attendance:** *Achieved in Class X, Class XI, and College 1st Year*  
-
----
-
-## 🏗️ Projects  
-### 🌟 **Personalized AR Integrated Experience (PARIE)**  
-*Empowering users to create and share augmented reality (AR) experiences.*  
-- **Key Features:**  
-  - No-code AR creation platform  
-  - Simplified AR development flow via mobile app and web editor  
-  - Seamless AR sharing with peers  
-- **Tech Stack:** Unity, ReactJS, ThreeJS, NextJS, NestJS, MongoDB, TailwindCSS  
-
----
-
-## 💼 Professional Experience  
-### **Machine Learning Internship**  
-**Atharvo India Pvt. Ltd, Bengaluru** (Aug - Sep 2024)  
-- Worked on advanced ML models to solve real-world business challenges.
-
----
-
 ## 🌟 Strengths  
-- Flexible and Adaptable  
-- Strong Prioritization Skills  
-- Perseverance and Dedication  
-- Industrious and Hardworking  
+
+- ✅ Flexible and Adaptable  
+- ✅ Strong Prioritization Skills  
+- ✅ Perseverance and Dedication  
+- ✅ Industrious and Hardworking  
 
 ---
 
-## 🔍 Areas of Interest  
-- **Data Science**  
-- **Management**  
-- **Business Intelligence**  
+## 📊 Stats  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SAKTHI7R&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SAKTHI7R&layout=compact&theme=radical)  
 
 ---
 
 ## 🎵 Hobbies  
-- Reading  
-- Listening to Music  
-- Exploring New Technologies  
+
+- 📚 Reading  
+- 🎵 Listening to Music  
+- 🌍 Exploring New Technologies  
 
 ---
 
-_This README was crafted to reflect my passion for technology, learning, and problem-solving. Feel free to connect and collaborate!_ 🚀
-
+> _"I believe technology is the art of solving problems creatively."_  
+🌟 *Let’s connect and collaborate!*  
