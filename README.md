@@ -1,5 +1,6 @@
 
-## **Sakthi R** | Computer Science Engineer  
+## <h1 align="center"><span style="background: linear-gradient(to right, #ff7e5f, #feb47b); -webkit-background-clip: text; color: transparent;">SAKTHI R</span></h1>
+ | Computer Science Engineer  
 
 🚀 *Building solutions that bridge innovation and simplicity.*  
 🔍 *Expertise in Web Development, Cloud Computing, and Data Science.*
