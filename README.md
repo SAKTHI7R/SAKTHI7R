@@ -38,6 +38,7 @@
 *Scored: 88.12%*  
 📙 **St. Anne’s Matric Higher Secondary School, Panruti**  
 *Scored: 78.6%*  
+
 ---
 ## 🏆 **Achievements**
 - 🥇 **CHAI’s 48hrs Hackathon:** *1st Place* (*₹50,000 prize*)  
