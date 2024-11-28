@@ -1,5 +1,5 @@
 
-### 💻 Sakthi R | Computer Science Engineer  
+### 💻 **Sakthi R** | Computer Science Engineer  
 
 🚀 *Building solutions that bridge innovation and simplicity.*  
 🔍 *Expertise in Web Development, Cloud Computing, and Data Science.*
