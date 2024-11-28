@@ -1,10 +1,8 @@
-<div align="center">
+![Header](https://user-images.githubusercontent.com/placeholder/header-image.jpg)  
+# 🌟 Sakthi R | Computer Science Engineer  
 
-# 🌟 **Sakthi R**  
-### 🚀 *Computer Science Engineer | AR Innovator | Tech Enthusiast*  
-
-![Professional Banner](https://user-images.githubusercontent.com/placeholder/banner-image.jpg)  
-*"Bridging technology and creativity to solve real-world challenges."*  
+🚀 *Building solutions that bridge innovation and simplicity.*  
+🔍 *Expertise in Web Development, Cloud Computing, and Data Science.*
 
 ---
 
@@ -17,35 +15,45 @@
 
 </div>
 
-## 🛠️ **Technical Skills**
-
+## 🛠️ **Tech Stack**  
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
-![NodeJS](https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
+| **Frontend**        | **Backend**         | **Databases**     | **Cloud Computing** | **Programming**  | **Tools & Frameworks** |
+|----------------------|---------------------|--------------------|----------------------|------------------|-------------------------|
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) |
+| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)    | ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) | ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) |
 
 </div>
 
 ---
 
-## 🏗️ **Projects**  
+## 💻 **Technical Skills**  
+<div align="center">
 
-### 🌟 **Personalized AR Integrated Experience (PARIE)**  
-> **Revolutionizing augmented reality for everyone.**  
+### 🚀 **Frontend Development**
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)  
 
-🔹 No-code platform for AR creation  
-🔹 Mobile app and web editor for simplified AR development  
-🔹 Easy sharing of AR experiences  
+### 🔧 **Backend Development**
+![NodeJS](https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)  
+![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)  
 
-**Tech Stack:** Unity, ReactJS, ThreeJS, NextJS, NestJS, MongoDB, TailwindCSS  
+### ☁️ **Cloud & Databases**
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
+
+### 🖥️ **Programming Languages**
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  
+
+---
+
+</div>
 
 ---
 
@@ -57,61 +65,16 @@
 
 ---
 
-## 🎓 **Education**  
-
-📘 **Sri Manakula Vinayagar Engineering College, Puducherry**  
-*B.Tech - Computer Science and Engineering (CGPA: 8.30)*  
-
-📗 **Thiruvalluvar Matric Higher Secondary School, Panruti**  
-*Scored: 88.12%*  
-
-📙 **St. Anne’s Matric Higher Secondary School, Panruti**  
-*Scored: 78.6%*  
-
----
-
-## 📜 **Certifications**
-
-- **Programming in Modern C++ (NPTEL)** - Jan 2023  
-- **Database Management System (NPTEL)** - Jul 2023  
-- **Excel Automation using ChatGPT** - Dec 2023  
-- **Encoder and Decoder Architecture** - Dec 2023  
-- **Java Certificate - HackerRank** - Jul 2024  
-- **Java Skill Test - CodeChef (93%)** - Jul 2024  
-
----
-
 ## 📊 **GitHub Stats**
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SAKTHI7R&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SAKTHI7R&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SAKTHI7R&show_icons=true&theme=radical&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SAKTHI7R&layout=compact&theme=radical&langs_count=10)  
 
 </div>
 
 ---
 
-## 🌟 **Strengths**
-
-- ✅ Flexible and Adaptable  
-- ✅ Strong Prioritization Skills  
-- ✅ Perseverance and Dedication  
-- ✅ Industrious and Hardworking  
-
----
-
-## 🎵 **Hobbies**
-
-- 📚 Reading  
-- 🎧 Listening to Music  
-- 🌍 Exploring New Technologies  
-
----
-
-<div align="center">
-
-*"I believe technology is the art of solving problems creatively."*
-💡 Let's connect and build something amazing together!"  
-
-</div>
+> _"I believe technology is the art of solving problems creatively."_  
+🌟 *Let’s connect and collaborate!*  
