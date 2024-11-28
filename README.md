@@ -1,5 +1,5 @@
-![Header](https://user-images.githubusercontent.com/placeholder/header-image.jpg)  
-# 🌟 Sakthi R | Computer Science Engineer  
+
+# Sakthi R | Computer Science Engineer  
 
 🚀 *Building solutions that bridge innovation and simplicity.*  
 🔍 *Expertise in Web Development, Cloud Computing, and Data Science.*
@@ -7,9 +7,7 @@
 ---
 
 ## 👨‍💻 About Me  
-- 🌍 **Location:** Panruti, Tamil Nadu, India  
 - 📧 **Email:** [sakthirajaraman74@gmail.com](mailto:sakthirajaraman74@gmail.com)  
-- 📞 **Phone:** +91 7010274233  
 - 🌐 **Portfolio:** [github.com/SAKTHI7R](https://github.com/SAKTHI7R)  
 - 💼 **LinkedIn:** [linkedin.com/in/sakthirajaraman114](https://www.linkedin.com/in/sakthirajaraman114)  
 - 🏅 **HackerRank:** [hackerrank.com/profile/sakthirajaraman1](https://www.hackerrank.com/profile/sakthirajaraman1)  
@@ -19,10 +17,8 @@
 ## 🎓 Education  
 📘 **Sri Manakula Vinayagar Engineering College, Puducherry**  
 - *B.Tech - Computer Science and Engineering (CGPA: 8.30)*  
-
 📗 **Thiruvalluvar Matric Higher Secondary School, Panruti**  
 - *Scored: 88.12%*  
-
 📙 **St. Anne’s Matric Higher Secondary School, Panruti**  
 - *Scored: 78.6%*  
 
@@ -30,16 +26,7 @@
 
 ## 🛠️ Technical Skills  
 
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)  
-![NodeJS](https://img.shields.io/badge/Node.js-%2343853D.svg?style=flat-square&logo=node.js&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)  
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=flutter&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)  ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)  ![NodeJS](https://img.shields.io/badge/Node.js-%2343853D.svg?style=flat-square&logo=node.js&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)  ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)  ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=flutter&logoColor=white)  
 
 ---
 
@@ -81,13 +68,6 @@
 - ✅ Strong Prioritization Skills  
 - ✅ Perseverance and Dedication  
 - ✅ Industrious and Hardworking  
-
----
-
-## 📊 Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SAKTHI7R&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SAKTHI7R&layout=compact&theme=radical)  
 
 ---
 
