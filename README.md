@@ -53,6 +53,15 @@
 - **Java Certificate - HackerRank** - Jul 2024  
 - **Java Skill Test - CodeChef (93%)** - Jul 2024
 ---
+## 🏅 HackerRank Skills and Achievements
+
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-Gold-brightgreen?style=for-the-badge)  
+![Python](https://img.shields.io/badge/Python-Silver-blue?style=for-the-badge)  
+![SQL](https://img.shields.io/badge/SQL-Silver-yellow?style=for-the-badge)  
+![Java](https://img.shields.io/badge/Java-Bronze-orange?style=for-the-badge)  
+
+📈 **View Profile:** [HackerRank - Sakthi R](https://www.hackerrank.com/profile/sakthirajaraman1)
+---
 ## 🌟 **Strengths**
 - ✅ Flexible and Adaptable  
 - ✅ Strong Prioritization Skills  
